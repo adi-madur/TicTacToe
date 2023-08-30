@@ -1,0 +1,16 @@
+:root{
+    --yellow: #ffc107;
+}
+
+body{
+    background-color: #111111;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 96vh;
+    align-items: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
